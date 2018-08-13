@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a894b97-3a60-4910-8f1e-4c620ea2b29e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/通话录音@037167998510(037167998510)_20180726103526.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Vanke.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Vanke.iws" />
@@ -203,12 +208,12 @@
       <option name="presentableId" value="Default" />
       <updated>1533603771702</updated>
       <workItem from="1533603773134" duration="1494000" />
-      <workItem from="1534123307136" duration="869000" />
+      <workItem from="1534123307136" duration="1408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2363000" />
+    <option name="totallyTimeSpent" value="2902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1332" y="-151" width="1920" height="1177" extended-state="0" />
